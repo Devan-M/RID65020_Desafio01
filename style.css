@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+}
+
+#header{
+    background-color: #303030;
+}
+
+#header > h1{
+    color: #FFFFFF;
+}
