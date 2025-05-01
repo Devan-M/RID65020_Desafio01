@@ -49,12 +49,23 @@
     <!--FORM SECTION-->
     <div id="footer">
         <h1 id="footer-title">Conheça mais sobre nossos serviços:</h1>
-        <form action="">
-            <input type="text" id="name" name="name" placeholder="Nome"><br>
+        <form id="formulario-contato">
+            <input type="text" id="nome" name="name" placeholder="Nome"><br>
             <input type="email" id="email" name="email" placeholder="Email"><br>
-            <button>Fale Conosco</button>
+            <input type="submit" value="Fale conosco" id="enviar">
         </form>
+        <p id="mensagem-status"></p>
     </div>
+
+    <!-- Modal -->
+     <!-- Modal -->
+    <div id="modal" class="hidden">
+        <div id="modal-content">
+            <p id="modal-mensagem"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
     
 </body>
 </html>
