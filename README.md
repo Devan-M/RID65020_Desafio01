@@ -33,6 +33,7 @@ O formulário coleta **nome** e **email** do visitante e envia os dados automati
 ## 📁 Estrutura do Projeto
 
 /
+
 ├── index.html
 
 ├── style.css
