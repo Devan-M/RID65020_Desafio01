@@ -34,10 +34,15 @@ O formulário coleta **nome** e **email** do visitante e envia os dados automati
 
 /
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── /images
+
 │ └── example.svg
+
 └── README.md
 
 
